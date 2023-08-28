@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "//zanit-development.github.io/Zanit-Preview/static/css/main.56af9deb.css",
-    "main.js": "//zanit-development.github.io/Zanit-Preview/static/js/main.cc701d40.js",
+    "main.js": "//zanit-development.github.io/Zanit-Preview/static/js/main.2141aa57.js",
     "static/media/bar2.jpg": "//zanit-development.github.io/Zanit-Preview/static/media/bar2.b246ba657697f9c4497a.jpg",
     "static/media/icon_sns_cafe.svg": "//zanit-development.github.io/Zanit-Preview/static/media/icon_sns_cafe.d250e7db094bc7e5f96b97719ee522b7.svg",
     "static/media/cocktail1.jpg": "//zanit-development.github.io/Zanit-Preview/static/media/cocktail1.89439e406fb895ab1a61.jpg",
@@ -30,10 +30,10 @@
     "static/media/icon_arrow_left.svg": "//zanit-development.github.io/Zanit-Preview/static/media/icon_arrow_left.76e0546e668380269897527a5b7ccfc5.svg",
     "static/media/check.svg": "//zanit-development.github.io/Zanit-Preview/static/media/check.1b40940347fe6af938afdbf3abf0821d.svg",
     "main.56af9deb.css.map": "//zanit-development.github.io/Zanit-Preview/static/css/main.56af9deb.css.map",
-    "main.cc701d40.js.map": "//zanit-development.github.io/Zanit-Preview/static/js/main.cc701d40.js.map"
+    "main.2141aa57.js.map": "//zanit-development.github.io/Zanit-Preview/static/js/main.2141aa57.js.map"
   },
   "entrypoints": [
     "static/css/main.56af9deb.css",
-    "static/js/main.cc701d40.js"
+    "static/js/main.2141aa57.js"
   ]
 }
