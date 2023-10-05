@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Zanit-Preview/static/css/main.56af9deb.css",
-    "main.js": "/Zanit-Preview/static/js/main.a12b61c7.js",
+    "main.js": "/Zanit-Preview/static/js/main.973a29db.js",
     "static/media/bar1.png": "/Zanit-Preview/static/media/bar1.863bbb4a37ad62739d46.png",
     "static/media/bar3.png": "/Zanit-Preview/static/media/bar3.29c8e323f4db1301a3b6.png",
     "static/media/bar2.png": "/Zanit-Preview/static/media/bar2.3749c88b0c006d7e2ba7.png",
@@ -11,9 +11,7 @@
     "static/media/cocktail1.jpg": "/Zanit-Preview/static/media/cocktail1.89439e406fb895ab1a61.jpg",
     "static/media/icon_sad_face.svg": "/Zanit-Preview/static/media/icon_sad_face.3c3bd99646448361f9e038af9cda9578.svg",
     "static/media/logo.svg": "/Zanit-Preview/static/media/logo.fa34ecb7ad31f1716c33cba6fc74f309.svg",
-    "static/media/cocktail2.jpg": "/Zanit-Preview/static/media/cocktail2.038ba7cbbac9eab84931.jpg",
     "static/media/icon_check_black.svg": "/Zanit-Preview/static/media/icon_check_black.d16ab30f9dc029f0501ba8c579f99f75.svg",
-    "static/media/cocktail3.jpg": "/Zanit-Preview/static/media/cocktail3.2c5afed6bac741b58349.jpg",
     "static/media/promo.png": "/Zanit-Preview/static/media/promo.fb0ffaed6ef67cbb9d73.png",
     "static/media/home_banner.png": "/Zanit-Preview/static/media/home_banner.8855fc90242afc99685a.png",
     "static/media/coupon_bg_used.svg": "/Zanit-Preview/static/media/coupon_bg_used.81695665d5246768872fb6fd99314ee2.svg",
@@ -36,6 +34,7 @@
     "static/media/icon_ticket.svg": "/Zanit-Preview/static/media/icon_ticket.3b36c3fc842674a7533017f4b0d4714c.svg",
     "static/media/icon_clock.svg": "/Zanit-Preview/static/media/icon_clock.e3b1bdd74756bdcbd05a01b8b2298c45.svg",
     "static/media/icon_wine.svg": "/Zanit-Preview/static/media/icon_wine.7c628fdf64007b8bccb6ffdc60781578.svg",
+    "static/media/icon_search.svg": "/Zanit-Preview/static/media/icon_search.6ecf875f71959984797b0f5e88f149e9.svg",
     "static/media/icon_arrow_promotion.svg": "/Zanit-Preview/static/media/icon_arrow_promotion.9aef8dbe7218a0d57826fd6db6ea5966.svg",
     "static/media/throughArrow.svg": "/Zanit-Preview/static/media/throughArrow.d5068f4dc46c6cb4c1e706ecf8748646.svg",
     "index.html": "/Zanit-Preview/index.html",
@@ -47,10 +46,10 @@
     "static/media/icon_arrow_down.svg": "/Zanit-Preview/static/media/icon_arrow_down.7baf3a66e5ed0f5502db2b9ce6e671bc.svg",
     "static/media/check.svg": "/Zanit-Preview/static/media/check.1b40940347fe6af938afdbf3abf0821d.svg",
     "main.56af9deb.css.map": "/Zanit-Preview/static/css/main.56af9deb.css.map",
-    "main.a12b61c7.js.map": "/Zanit-Preview/static/js/main.a12b61c7.js.map"
+    "main.973a29db.js.map": "/Zanit-Preview/static/js/main.973a29db.js.map"
   },
   "entrypoints": [
     "static/css/main.56af9deb.css",
-    "static/js/main.a12b61c7.js"
+    "static/js/main.973a29db.js"
   ]
 }
