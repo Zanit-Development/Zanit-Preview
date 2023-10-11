@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Zanit-Preview/static/css/main.56af9deb.css",
-    "main.js": "/Zanit-Preview/static/js/main.c79c6fee.js",
+    "main.js": "/Zanit-Preview/static/js/main.e03c11da.js",
     "static/media/bar1.png": "/Zanit-Preview/static/media/bar1.863bbb4a37ad62739d46.png",
     "static/media/bar3.png": "/Zanit-Preview/static/media/bar3.29c8e323f4db1301a3b6.png",
     "static/media/bar2.png": "/Zanit-Preview/static/media/bar2.3749c88b0c006d7e2ba7.png",
@@ -46,10 +46,10 @@
     "static/media/icon_arrow_down.svg": "/Zanit-Preview/static/media/icon_arrow_down.7baf3a66e5ed0f5502db2b9ce6e671bc.svg",
     "static/media/check.svg": "/Zanit-Preview/static/media/check.1b40940347fe6af938afdbf3abf0821d.svg",
     "main.56af9deb.css.map": "/Zanit-Preview/static/css/main.56af9deb.css.map",
-    "main.c79c6fee.js.map": "/Zanit-Preview/static/js/main.c79c6fee.js.map"
+    "main.e03c11da.js.map": "/Zanit-Preview/static/js/main.e03c11da.js.map"
   },
   "entrypoints": [
     "static/css/main.56af9deb.css",
-    "static/js/main.c79c6fee.js"
+    "static/js/main.e03c11da.js"
   ]
 }
